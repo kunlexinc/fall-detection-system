@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+mlflow.db
+mlruns/
+mlartifacts/
+events.db
+data/synthetic/
+models/*
+!models/.gitkeep
